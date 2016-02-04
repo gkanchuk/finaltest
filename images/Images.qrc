@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>convert4_Icon.ico</file>
+        <file>file.jpg</file>
+    </qresource>
+</RCC>
